@@ -5,7 +5,7 @@
 # :recycle: Sobre
 
 <p align="justify">
-O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de coleta de lixo nas cidades. Com ela, é possível ajudar pessoas a encontrar pontos para coleta de um determinado material de forma mais eficiente. Foi desenvolvida durante a primeira edição da Next Level Week, organizada pela [Rocketseat](https://rocketseat.com.br/).
+O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de coleta de lixo nas cidades. Com ela, é possível ajudar pessoas a encontrarem pontos para coleta de um determinado material de forma mais eficiente. Foi desenvolvida durante a primeira edição da Next Level Week, organizada pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
 </p>
 
 # :toolbox: Tecnologias
@@ -16,9 +16,10 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 
 - Mobile: [React Native](https://reactnative.dev/) e [Expo](https://expo.io/)
 
-- Outras: [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/)
+- Utilitários: [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/), [Leaflet](https://leafletjs.com/), [API de localidades (IBGE)](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
 
 # :package: Dependências
 
 - [express](https://expressjs.com/pt-br/)
 - [ts-node-dev](https://github.com/whitecolor/ts-node-dev)
+- [react-leaflet](https://react-leaflet.js.org/)
