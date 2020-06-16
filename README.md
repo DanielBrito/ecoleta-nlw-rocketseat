@@ -15,13 +15,13 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 </div>
 
 <div align="center">
-  <img src="mobile/mobile_preview_1.jpg" alt="Ecoleta mobile">
+  <img src="mobile/mobile_preview_1.jpg" alt="Ecoleta mobile" width="500px">
 </div>
 <div align="center">
-  <img src="mobile/mobile_preview_2.jpg" alt="Ecoleta mobile">
+  <img src="mobile/mobile_preview_2.jpg" alt="Ecoleta mobile" width="500px">
 </div>
 <div align="center">
-  <img src="mobile/mobile_preview_3.jpg" alt="Ecoleta mobile">
+  <img src="mobile/mobile_preview_3.jpg" alt="Ecoleta mobile" width="500px">
 </div>
 
 # :toolbox: Tecnologias
