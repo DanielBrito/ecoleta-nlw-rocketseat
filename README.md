@@ -59,6 +59,8 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 
 # :speech_balloon: Considerações
 
+<p align="justify">
 Foi o meu primeiro contato com Node.js, React Native (tinha apenas conhecimento sobre Android) e também com alguns conceitos de TypeScript, o que me fez ter mais vontade de me aprofundar neste vasto mundo do desenvolvimento web e mobile, seja na campo do front-end quanto do back-end.
 
-Apesar de ter mais familidaridade com a parte visual, como cientista da computação, acho imprescindível saber como estas duas áreas se integram. Desta forma, após um passo de cada vez, sempre respeitando minhas limitações, vou buscando sempre atingir o "próximo nível".
+Apesar de ter mais familidaridade com a parte visual, como cientista da computação, acho imprescindível saber como estas duas áreas se integram. Desta forma, após um passo de cada vez, superando minhas limitações, vou buscando sempre atingir o "próximo nível".
+</p>
