@@ -275,7 +275,7 @@ const CreatePoint = () => {
         <button type="submit">Cadastrar ponto de coleta</button>
         {formSubmitted && (
           <div id="success-message">
-            <p id="message">Ponto de coleta criado com sucesso!</p>
+            <p>Ponto de coleta criado com sucesso!</p>
           </div>
         )}
       </form>

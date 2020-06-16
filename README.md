@@ -10,16 +10,27 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 
 # :toolbox: Tecnologias
 
-- Front-end: [ReactJS](https://pt-br.reactjs.org/) e [TypeScript](https://www.typescriptlang.org/)
+- Front-end: 
+  - [ReactJS](https://pt-br.reactjs.org/)
+  - [TypeScript](https://www.typescriptlang.org/)
 
-- Back-end: [Node.js](https://nodejs.org/en/), [Knex.js](http://knexjs.org/) with [Sqlite](https://www.sqlite.org/index.html)
+- Back-end: 
+  - [Node.js](https://nodejs.org/en/)
+  - [Knex.js](http://knexjs.org/) com [Sqlite](https://www.sqlite.org/index.html)
 
-- Mobile: [React Native](https://reactnative.dev/) e [Expo](https://expo.io/)
+- Mobile: 
+  - [React Native](https://reactnative.dev/)
 
-- Utilitários: [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/), [Leaflet](https://leafletjs.com/), [API de localidades (IBGE)](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
+- Utilitários: 
+  - [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/)
+  - [Leaflet](https://leafletjs.com/)
+  - [API de localidades do IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
+  - [Google Fonts](https://fonts.google.com/)
 
 # :package: Dependências
 
 - [express](https://expressjs.com/pt-br/)
 - [ts-node-dev](https://github.com/whitecolor/ts-node-dev)
 - [react-leaflet](https://react-leaflet.js.org/)
+- [axios](https://github.com/axios/axios)
+- [expo](https://expo.io/) e seus diversos módulos
