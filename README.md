@@ -8,6 +8,12 @@
 O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de coleta de lixo nas cidades. Com ela, é possível ajudar pessoas a encontrarem pontos para coleta de um determinado material de forma mais eficiente. Foi desenvolvida durante a primeira edição da Next Level Week, organizada pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
 </p>
 
+# :heavy_check_mark: Resultado
+
+- Versão web
+
+- Versão mobile
+
 # :toolbox: Tecnologias
 
 - Front-end: 
@@ -22,7 +28,7 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
   - [React Native](https://reactnative.dev/)
 
 - Utilitários: 
-  - [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/)
+  - [Insomnia](https://insomnia.rest/)
   - [Leaflet](https://leafletjs.com/)
   - [API de localidades do IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
   - [Google Fonts](https://fonts.google.com/)
@@ -33,4 +39,13 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 - [ts-node-dev](https://github.com/whitecolor/ts-node-dev)
 - [react-leaflet](https://react-leaflet.js.org/)
 - [axios](https://github.com/axios/axios)
-- [expo](https://expo.io/) e seus diversos módulos
+- [expo](https://expo.io/)
+- [multer](https://github.com/expressjs/multer)
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone)
+- [celebrate](https://github.com/arb/celebrate)
+
+# :speech_balloon: Considerações
+
+Foi o meu primeiro contato com Node.js, React Native (tinha apenas conhecimento sobre Android) e também com alguns conceitos de TypeScript, o que me fez ter mais vontade de me aprofundar neste vasto mundo do desenvolvimento web e mobile, seja na campo do front-end quanto do back-end.
+
+Apesar de ter mais familidaridade com a parte visual, como cientista da computação, acho imprescindível saber como estas duas áreas se integram. Desta forma, após um passo de cada vez, sempre respeitando minhas limitações, vou buscando sempre atingir o "próximo nível".
