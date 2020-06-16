@@ -10,24 +10,37 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 
 # :heavy_check_mark: Resultado
 
-- Versão web
+<div align="center">
+  <img src="web/ecoleta_preview.gif" alt="Ecoleta web">
+</div>
 
-- Versão mobile
+<div align="center">
+  <img src="mobile/mobile_preview_1.png" alt="Ecoleta mobile">
+</div>
+<div align="center">
+  <img src="mobile/mobile_preview_2.png" alt="Ecoleta mobile">
+</div>
+<div align="center">
+  <img src="mobile/mobile_preview_3.png" alt="Ecoleta mobile">
+</div>
 
 # :toolbox: Tecnologias
 
-- Front-end: 
+- Front-end:
+
   - [ReactJS](https://pt-br.reactjs.org/)
   - [TypeScript](https://www.typescriptlang.org/)
 
-- Back-end: 
+- Back-end:
+
   - [Node.js](https://nodejs.org/en/)
   - [Knex.js](http://knexjs.org/) com [Sqlite](https://www.sqlite.org/index.html)
 
-- Mobile: 
+- Mobile:
+
   - [React Native](https://reactnative.dev/)
 
-- Utilitários: 
+- Utilitários:
   - [Insomnia](https://insomnia.rest/)
   - [Leaflet](https://leafletjs.com/)
   - [API de localidades do IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
