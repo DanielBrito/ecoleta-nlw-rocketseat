@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png" alt="Ecoleta"/>
+  <img src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png" alt="Ecoleta"/>
 </div>
 
 # :recycle: Sobre
@@ -10,9 +10,15 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 
 # :heavy_check_mark: Resultado
 
+<h2 align="center">Web</h2>
+
 <div align="center">
   <img src="web/ecoleta_preview.gif" alt="Ecoleta web">
 </div>
+
+<br>
+
+<h2 align="center">Mobile</h2>
 
 <div align="center">
   <img src="mobile/mobile_preview_1.jpg" alt="Ecoleta mobile" width="350px">
@@ -60,8 +66,8 @@ O <strong>Ecoleta</strong> é uma plataforma criada para gerenciar o processo de
 # :speech_balloon: Considerações
 
 <p align="justify">
-Foi o meu primeiro contato com Node.js, React Native (tinha apenas conhecimento sobre Android) e também com alguns conceitos de TypeScript, o que me fez ter mais vontade de me aprofundar neste vasto mundo do desenvolvimento web e mobile, seja na campo do front-end quanto do back-end.</p>
+Neste projeto, tive meu primeiro contato com Node.js, React Native e também com alguns conceitos de TypeScript, o que me fez ter mais vontade de me aprofundar no vasto universo do desenvolvimento web e mobile, seja no campo do front-end como do back-end.</p>
 
 <p align="justify">
-Apesar de ter mais familidaridade com a parte visual, como cientista da computação, acho imprescindível saber como estas duas áreas se integram. Desta forma, após um passo de cada vez, superando minhas limitações, vou buscando sempre atingir o "próximo nível".
+Apesar de ter mais familidaridade com a parte visual, como cientista da computação, acho imprescindível saber como estas duas áreas se integram. Desta forma, após um passo de cada vez, e superando minhas limitações, vou buscando sempre atingir o "próximo nível".
 </p>
